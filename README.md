@@ -3,7 +3,9 @@
 ## AIM
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
-## THEORY
+## PROBLEM STATMENT AND DATASET
+Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
+Google stock prices are given in trainset.csv and testset.csv files. The dataset is available in the GitHub repository.
 ## Neural Network Model
 Include the neural network model diagram.
 
@@ -165,12 +167,15 @@ print(f'Actual Price: {actual_prices[-1]}')
 ### OUTPUT
 
 ## Training Loss Over Epochs Plot
-<img width="304" height="357" alt="image" src="https://github.com/user-attachments/assets/1c1fb678-8f8f-4cea-8216-39d65dd4a0f1" /><br>
-<img width="635" height="436" alt="image" src="https://github.com/user-attachments/assets/a07a43b1-4a12-418b-add3-bfb03df774d5" />
+ <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e60c8d4c-e9b3-4f8b-8d44-bfc1a9b9378b" />
+
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0d967de3-a382-4b4a-b9ef-a25eb5cb6cc6" />
+
 
 
 ## True Stock Price, Predicted Stock Price vs time
-<img width="912" height="542" alt="image" src="https://github.com/user-attachments/assets/762ea11d-fb47-4ab7-b0d3-d30b8b44b7c6" />
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/53c1262e-f22e-4eed-9420-f32bc2e19b1a" />
+
 
 ### Predictions
 <img width="398" height="86" alt="image" src="https://github.com/user-attachments/assets/d05db132-f39d-4bc2-b369-873b567206c8" />
